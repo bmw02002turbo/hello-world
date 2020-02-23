@@ -1,2 +1,2 @@
 # hello-world
--Just another repository. First try with GitHub.
+-Just another repository. Test Run of GitHub.
